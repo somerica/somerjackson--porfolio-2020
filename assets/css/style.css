@@ -3,3 +3,57 @@
     color:coral
 
 }
+
+body{
+    background: gray;
+}
+.container{
+    
+}
+
+.card-title{
+    margin-right: 250px;
+    float: left;
+    color: coral;
+    border-block-color: coral ;
+   
+
+
+}
+
+.card-text{
+
+    float:left;
+}
+.img {
+    height: 200px;
+    width: 200px;
+    margin-top: 50px;
+    margin-left: 50px;
+    float: right ;
+}
+.row{
+    margin: 70px;
+}
+.heading {
+    height: 70px;
+    width: 80%;
+    margin-top: 50px;
+    color:white;
+    background-color:#5AB9BA;
+    padding-top: 70px;
+    letter-spacing: 5px;
+    margin-left: 100px;
+}
+.p{
+    border: 2px ;
+    height: 250px;
+    width: 250px;
+    margin-left: 100px;  
+}
+.footer {
+    background-color: #F1F1F1;
+  text-align: center;
+  padding: 10px;
+  color: blue 
+}
