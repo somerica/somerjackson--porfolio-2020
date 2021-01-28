@@ -1,29 +1,36 @@
 .navbar-light .navbar-brand {
        background:rgb(235, 229, 229);
-    color:coral
-
+    color:rgb(228, 114, 133)
 }
 
-body{
-    background: gray;
-}
-.container{
-    
-}
 
 .card-title{
     margin-right: 250px;
     float: left;
-    color: coral;
-    border-block-color: coral ;
-   
-
-
+    color: rgb(228, 114, 133);
+    border-block-color:rgb(228, 114, 133) ;
 }
 
 .card-text{
 
     float:left;
+}
+.project-img {
+    image src
+    flex-basis: 50%;
+    height: 300px;
+    overflow:hidden;
+    position: relative;
+}
+.project-item {
+    font: size 4rem !important;
+    font: weight 500;
+
+}
+.h1 {
+    font-weight: bold;
+    font-size: 1.8rem;
+    font-style: italic ;
 }
 .img {
     height: 200px;
